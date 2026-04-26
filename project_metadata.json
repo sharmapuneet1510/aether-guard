@@ -1,0 +1,16 @@
+{
+  "project_name": "aether-guard",
+  "project_slug": "aether-guard",
+  "project_path": "/Users/puneetsharma/Workspace/projects/ai-lab/aether-guard",
+  "execplane_project_id": "replace-aether-guard-id",
+  "execplane_base_url": "http://localhost:8000",
+  "copied_files": [
+    "FRONTEND_INSTRUCTIONS.md",
+    "BACKEND_INSTRUCTIONS.md",
+    "NON_NEGOTIABLE_DEVELOPMENT_RULES.md",
+    "REQUIREMENT_MANAGEMENT_INSTRUCTIONS.md",
+    "AI_USAGE_INSTRUCTIONS.md",
+    "CLAUDE_MASTER_INSTRUCTIONS.md"
+  ],
+  "skipped_missing_files": []
+}

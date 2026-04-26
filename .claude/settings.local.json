@@ -6,7 +6,25 @@
       "Bash(mkdir -p /Users/puneetsharma/Workspace/projects/ai-lab/aether-guard/packages/promptshield-core/tests)",
       "Bash(mkdir -p /Users/puneetsharma/Workspace/projects/ai-lab/aether-guard/packages/promptshield-config/promptshield_config/defaults)",
       "Bash(mkdir -p /Users/puneetsharma/Workspace/projects/ai-lab/aether-guard/apps/promptshield-lite/promptshield_lite/cli)",
-      "Bash(/Users/puneetsharma/Workspace/projects/ai-lab/aether-guard/deploy/compose/.env.example:*)"
+      "Bash(/Users/puneetsharma/Workspace/projects/ai-lab/aether-guard/deploy/compose/.env.example:*)",
+      "Bash(brew install:*)",
+      "Bash(chmod:*)",
+      "Bash(bash /Users/puneetsharma/.claude/hooks/promptshield-check.sh)",
+      "Bash(~/.local/bin/uv sync:*)",
+      "Bash(curl -LsSf https://astral.sh/uv/install.sh)",
+      "Bash(sh)",
+      "Bash(source $HOME/.local/bin/env)",
+      "Bash(uv sync:*)",
+      "Bash(uv tool:*)",
+      "Bash(/Users/puneetsharma/.local/bin/promptshield precheck:*)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(python3 -c \"import sys; [print\\(repr\\(l\\)\\) for l in sys.stdin]\")",
+      "Bash(export PATH=\"$HOME/.local/bin:/usr/local/bin:/usr/bin:/bin:$PATH\")",
+      "Bash(python3 -c \":*)",
+      "Bash(python3:*)",
+      "Bash(bash -n /Users/puneetsharma/.claude/hooks/promptshield-check.sh)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
